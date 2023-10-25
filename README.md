@@ -4,11 +4,11 @@
 
 Alyssa Cullinan ,Valeria Briones ,Luke Payne ,Shubhangi Bidkar,Stephanie Carlson
 
-### Project Outline:
+## Project Outline:
 
 Pull Petfinder API Breakdown to find local dogs in Chicago, Illinois Summarize dogs available by breed, age, size, color and gender Analyze data for "Black Dog Syndrome" and see if they are on the site longer
 
-#### Insights:
+### Insights:
 
 • Overall while black dogs are available most frequently, black dogs don't seem to be online longer than other dogs. We did find that breed tended to influence the days online more than color.
 
@@ -24,7 +24,7 @@ Pull Petfinder API Breakdown to find local dogs in Chicago, Illinois Summarize d
 
 • As we analyze by coat, the majority of the data is more closely distributed with a relatively small number of outliers.
 
-#### Challenges and Limitations:
+### Challenges and Limitations:
 
 Calculating the number of days on petfinder/adoptable days online -There is no defined specification for age or breed size. -Inconsistency of breed identification by the shelter.
 -Analyzing categorical data vs. numerical
